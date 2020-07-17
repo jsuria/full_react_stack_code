@@ -22,7 +22,7 @@
     "cors": "2.8.4",
     "express": "4.16.2",
     "graphql": "0.11.7",
-    "lodash": "4.17.4",
+    "lodash": "4.17.19",
     "mockgoose": "7.3.3",
     "mongoose": "4.12.1",
     "morgan": "1.9.0"
